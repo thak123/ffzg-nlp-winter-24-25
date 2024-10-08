@@ -1,8 +1,8 @@
 # ffzg-nlp-winter-24
 Repository for storing all files and excercises for students.
 
-## week 0: 04.10.24
-## Week 1: 11.10.24:
+## week 0: 04.10.24: Introduction to course.
+## Week 1: 11.10.24: 
 ## Week 2: 18.10.24:
 ## Week 3: 25.10.24: Corpus collection 
 ## Week 4: 08.11.24: Corpus collection complete 
@@ -18,4 +18,19 @@ Repository for storing all files and excercises for students.
 ## Week 14: 17.01.25:
 ## Week 15: 24.01.25: Presentation & Submissions (report, code, demo, timesheet)
 
-# Project Steps
+# Corpus creation
+- [ ] topic selection
+- [ ] text collection
+- [ ] text preprocessing
+- [ ] annotation campaign 1
+- [ ] statistics - 1 
+- [ ] annotation campaign 2 - final
+- [ ] statistics - 2
+
+# Project 
+- [ ] dataset selection/creation if required
+- [ ] preprocessing
+- [ ] modelling
+- [ ] results
+- [ ] error analysis
+- [ ] reporting
