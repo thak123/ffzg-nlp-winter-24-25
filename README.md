@@ -17,3 +17,6 @@ Repository for storing all files and excercises for students.
 - [ ] results
 - [ ] error analysis
 - [ ] reporting
+
+# Links
+- [Project code and files ](https://github.com/FFZG-NLP-2024/TripAdvisor-Sentiment)
